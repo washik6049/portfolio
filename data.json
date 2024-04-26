@@ -1,0 +1,108 @@
+{
+    "name": "Washik Faieaz",
+    "email": "washikfaieaz@gmail.com",
+    "subtitles": [
+        "Flutter Developer",
+        "Technical Writer",
+        "UI/UX Designer"
+    ],
+    "blackWhitePhotoURL": "https://drive.google.com/uc?export=view&id=1np1Or8kvpEmH5ghkFN5GJGqU8VAQRUCH",
+    "coloredPhotoURL": "https://drive.google.com/uc?export=view&id=1wE4FRqC9bRrzOqS64b48--ykLK1yklTJ",
+    "socialLinks": [
+        {
+            "platform": "facebook",
+            "url": "https://www.facebook.com/wali.faieaz.1/"
+        },
+        {
+            "platform": "instagram",
+            "url": "https://www.instagram.com/_____faieaz_/"
+        },
+        {
+            "platform": "twitter",
+            "url": "https://twitter.com/washik_faieaz"
+        },
+        {
+            "platform": "linkedin",
+            "url": "https://www.linkedin.com/in/washik-wali-faieaz-169a78263/"
+        },
+        {
+            "platform": "github",
+            "url": "https://github.com/washik6049"
+        }
+       
+    ],
+    "aboutMeHeadline": "I'm Washik Wali Faieaz, a Flutter developer, Technical Writer and UI/UX Designer.",
+    "aboueMeDetails": "I'm a Final Year Computer Science and Engineering student enrolled in Daffodil International University, Bangladesh.",
+    "technologies": [
+        "Flutter",
+        "Dart",
+        "Python",
+        "Java",
+        "C++",
+        "Flask"
+    ],
+    "services": [
+        {
+            "icon": "assets/services/app.png",
+            "name": "Mobile App Development",
+            "description": "Android app development via Flutter\n- Splash Screen\n- Firebase Auth/Cloud\n- REST APIs\n- Maps integration and more...!"
+        },
+        {
+            "icon": "assets/services/ui.png",
+            "name": "UI/UX Designing",
+            "description": "Modern UI/UX Designing\n- Adobe XD\n- Mobile & Web designs\n- Interactive UI designs\n- Responsiveness\n- Promo Videos and more..!"
+        },
+        {
+            "icon": "assets/services/rapid.png",
+            "name": "Rapid Prototyping",
+            "description": "Rapid Prototype via Flutter\n- Working MVP\n- Quick & Working prototype"
+        },
+        {
+            "icon": "assets/services/blog.png",
+            "name": "Technical Blog Writing",
+            "description": "Technical Blog writing\n- Medium blogs\n- Soothing header images\n- SEO friendly\n- Researched topics and more..!"
+        },
+        {
+            "icon": "assets/services/open.png",
+            "name": "Open Source - GitHub",
+            "description": "Open source GitHub Projects\n- Awesome README.md\n- Well documented\n- Header images and more...!"
+        }
+    ],
+    "hireMe": {
+        "whatsapp": "+880 1750036049"
+    },
+    "projects": [
+        {
+            "title": "Go For Travel",
+            "iconUrl": "https://drive.google.com/file/d/1EohcZdd5mg5dqHQIn24k_G0dpqQTFYwV/view?usp=sharing",
+            "bannerUrl": "assets/projects/gofortravel.png",
+            "description": "The Go For Travel app is a ride-hailing platform that connects users with drivers for convenient and on-demand transportation services."
+        },
+        {
+            "title": "Scientific Calculator",
+            "iconUrl": "https://drive.google.com/file/d/1nr1FHUkACm5cg2MpXKNftUeKw888NcJt/view?usp=sharing",
+            "bannerUrl": "assets/projects/calculatorb.png",
+            "description": "Empower your mathematical endeavors with our scientific calculator app, equipped with advanced functions for precision and efficiency."
+        },
+        {
+            "title": "Rideon",
+            "iconUrl": "https://drive.google.com/file/d/1jpkSQyGZP5EWPCIfRz-dU9TARXHN2P5o/view?usp=sharing",
+            "bannerUrl": "assets/projects/rideon.png",
+            "description": "Discover flexible car rentals spanning from one month to one year on our platform, offering convenience and freedom for your extended mobility needs."
+        }
+    ],
+    "contact": [
+        {
+            "param": "address",
+            "value": "Dhaka, Bangladesh"
+        },
+        {
+            "param": "phone",
+            "value": "+880 1750036049"
+        },
+        {
+            "param": "email",
+            "value": "washikfaieaz@gmail.com"
+        }
+    ]
+}
