@@ -39,7 +39,7 @@ class StaticUtils {
   ];
 
   static const String resume =
-      'https://drive.google.com/file/d/1601urOXZUwKVUNwPoo29p74Uk8JhfkOh/view?usp=sharing';
+      'https://drive.google.com/file/d/1rbYFixGcFh4rQ4m8t8S8ehElxP5teQR9/view?usp=sharing';
 
   static const String gitHub = 'https://github.com/washik6049';
 }
